@@ -8,7 +8,7 @@ Projeto de desafio da DIO para simulação de conta bancária, onde deve ser ins
 
 ## Pré-requisitos
 
-- Java: OpenJDK Versão 21.0.2
+- Java: JDK Versão 21.0.2
 
 ## Rodar localmente
 
@@ -24,7 +24,13 @@ Vá para a pasta do projeto
 cd ContaBanco
 ```
 
+Compile o projeto
+
+```
+javac -d bin src/ContaTerminal.java
+```
+
 Execute o projeto
 ```bash
-java src/ContaTerminal.java
+java -cp bin ContaTerminal
 ```
