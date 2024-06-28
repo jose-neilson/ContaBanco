@@ -15,7 +15,7 @@ Projeto de desafio da DIO para simulação de conta bancária, onde deve ser ins
 Clone o projeto
 
 ```bash
-git clone https://github.com/jose-neilson/ContaBanco.git
+git clone https://github.com/jose-neilson/ContaTerminal.git
 ```
 
 Vá para a pasta do projeto
